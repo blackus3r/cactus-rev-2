@@ -1,5 +1,5 @@
 //This is a simple Sketch for the Cactus Rev 2 to read the value from a soil moisture sensor. 
-//You can find the tutorial on http://derpade.de/
+//You can find the tutorial on http://derpade.de/tutorial-arduino-cactus-soil-moisture-sensor
 //@author Patrick Hausmann <privat@patrick-designs.de>
 
 int sensor_water = A3;
