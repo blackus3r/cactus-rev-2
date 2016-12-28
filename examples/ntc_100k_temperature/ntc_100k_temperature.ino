@@ -37,6 +37,6 @@ void loop()
   Serial.print(temperaturInF);   
   Serial.print("° F; ");
   Serial.print(temperaturInC);   
-  Serial.println("! C");
+  Serial.println("° C");
   delay(50);            
 }
