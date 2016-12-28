@@ -1,3 +1,6 @@
+//This is a simple example to control a ultra sonic sensor.
+//You can find the tutorial on http://derpade.de/
+//@author Patrick Hausmann <privat@patrick-designs.de>
 
 #include <NewPing.h>
 
